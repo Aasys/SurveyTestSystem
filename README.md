@@ -15,6 +15,6 @@ Deployed URL: http://127.0.0.1:8082/parent/.
     mvn gwt:run -pl web
 
 
-CREDITS:
-=================
+Credits:
+---------------------------------
 GWT Maven Example : https://github.com/steinsag/gwt-maven-example
